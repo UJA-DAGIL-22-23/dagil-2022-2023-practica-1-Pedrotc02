@@ -11,8 +11,8 @@ Estudiante de Ingeniería Informática en la Universidad de Jaén
 ![Pedrotc02 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrotc02&show_icons=true&theme=radical)
 
 ### Capturas de pantalla de Trello al inicio de la práctica
-<img src='Trello1.png' width='600px'>
-<img src='Trello2.png' width='500px'>
+<img src='trello1.png' width='700px' height='200px'>
+<img src='trello2.png' width='500px'>
 
 ### Capturas de pantalla de mi GitHub
 <img src='GitHub.png' width='600px'>
